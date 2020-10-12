@@ -5,3 +5,5 @@ rPhyloConv/tree.tree
 */path.txt
 */output_data/test_preds
 */output_data/test_y
+*/output_data/y_test*
+*/output_data/y_pred_test*
