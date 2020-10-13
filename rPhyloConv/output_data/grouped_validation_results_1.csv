@@ -1,4 +1,4 @@
 ,1
-AUC,0.846863722289053
-Weighted MSE,0.16167244232154138
-Params,"{'activation': 'elu', 'batch_size': 64, 'callbacks': [<tensorflow.python.keras.callbacks.EarlyStopping object at 0x0000019C07A8A6C8>], 'dropout': 0.3, 'epochs': 2000, 'filters': 10, 'input_shape': None, 'kernel_size': (3, 9), 'learning_rate': 0.001, 'loss': 'mse', 'n_classes': 2, 'n_layers': 1, 'pool_size': (2, 2), 'verbose': 2}"
+AUC,0.6431861144526552
+Weighted MSE,0.2635970821655261
+Params,"{'activation': 'elu', 'batch_size': 64, 'callbacks': [<tensorflow.python.keras.callbacks.EarlyStopping object at 0x000002312DF8F9C8>], 'dropout': 0.3, 'epochs': 2000, 'filters': 10, 'input_shape': None, 'kernel_size': (3, 9), 'learning_rate': 0.001, 'loss': 'mse', 'n_classes': 2, 'n_layers': 2, 'pool_size': (2, 2), 'verbose': 2}"
