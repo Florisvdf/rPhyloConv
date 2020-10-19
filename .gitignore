@@ -1,5 +1,7 @@
-input_data/*
-processed_data/*
+input_data/*.npy
+input_data/*.csv
+processed_data/*.npy
+processed_data/*.csv
 pp_data.ipynb
 rPhyloConv/tree.tree
 */path.txt
