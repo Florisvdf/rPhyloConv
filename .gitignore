@@ -1,5 +1,5 @@
-input_data
-processed_data
+input_data/*
+processed_data/*
 pp_data.ipynb
 rPhyloConv/tree.tree
 */path.txt
